@@ -9,3 +9,5 @@ data/
 .mypy_cache/
 supervisord.log
 supervisord.pid
+.idea
+.vscode
